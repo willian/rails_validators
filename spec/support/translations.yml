@@ -1,0 +1,21 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Errors: %{errors}"
+        invalid_email: 'is not a valid address'
+        invalid_url: 'is not a valid address'
+        invalid_cep: 'is not a valid cep number'
+        invalid_cnpj: 'is not a valid cnpj number'
+        invalid_cpf: 'is not a valid cpf number'
+
+pt-BR:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Erros: %{errors}"
+        invalid_email: 'não parece ser um e-mail válido'
+        invalid_url: 'não parece ser uma URL válida'
+        invalid_cep: 'não é um CEP válido'
+        invalid_cnpj: 'não é um CNPJ válido'
+        invalid_cpf: 'não é um CPF válido'
